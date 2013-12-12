@@ -7,7 +7,7 @@ Made by [danneu](http://danneu.com).
 Convered by [stygiansabyss](https://github.com/stygiansabyss)
 
 A dark theme for Twitter Bootstrap 3.
-    
+
 ## Usage
 
 * Download `darkstrap.css`
