@@ -3,8 +3,9 @@ Demo: [Darkstrap vs. Bootstrap][demo]
 # Darkstrap (v0.9.2)
 
 Made by [danneu](http://danneu.com).
+Convered by [stygiansabyss](https://github.com/stygiansabyss)
 
-A dark theme for Twitter Bootstrap 2.
+A dark theme for Twitter Bootstrap 3.
     
 ## Usage
 
@@ -41,4 +42,4 @@ Since I don't actually use Darkstrap in a project of my own anymore, I'm open to
 
 Feel free to create a [Github Issue](https://github.com/danneu/darkstrap/issues) or just [email me](mailto:danrodneu@gmail.com).
 
-[demo]: http://danneu.com/bag/darkstrap/darkstrap.html
+[demo]: http://danneu.com/bag/darkstrap/darkstrap3.html
