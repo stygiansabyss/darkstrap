@@ -3,6 +3,7 @@ Demo: [Darkstrap vs. Bootstrap][demo]
 # Darkstrap (v0.9.2)
 
 Made by [danneu](http://danneu.com).
+
 Convered by [stygiansabyss](https://github.com/stygiansabyss)
 
 A dark theme for Twitter Bootstrap 3.
